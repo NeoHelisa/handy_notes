@@ -1,0 +1,28 @@
+.header
+{
+    width: 70%;
+    text-align: center;
+    font-size: calc(24px + 2vw);
+    background-color: #E4D4C8;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px; 
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 3px black;
+    color: #A47551;
+    font-family: 'Qahiri';
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.header-bg
+{
+    width:100%;
+    background-color: #D0B49F;
+    text-align: center;
+    padding-bottom: 10px; 
+    padding-top: 10px;
+    box-shadow: 0 1px 5px black;
+}
