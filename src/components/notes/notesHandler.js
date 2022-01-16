@@ -26,6 +26,8 @@ const noteReducer = (prevState, action) => {
             }
             return newNoteState;
         }
+        default:
+                return;
     }
 }
 const Notes = () => {
@@ -51,12 +53,12 @@ const Notes = () => {
         event.target.style.left = `${event.pageX - 75}px`;
         event.target.style.top = `${event.pageY - 75}px`;
     }
-    
+
     const clearNotes = event =>
     {
-        {noteState.notes_content.map(note => (
+        noteState.notes_content.map(note => (
         () => dispatch({type: "DEL_NOTE", payload: note})
-        ))}
+        ))
     }
 
     return ( 
