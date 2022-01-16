@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/handy_notes/static/css/main.4b05ab04.chunk.css",
+    "main.js": "/handy_notes/static/js/main.9e8db483.chunk.js",
+    "main.js.map": "/handy_notes/static/js/main.9e8db483.chunk.js.map",
+    "runtime-main.js": "/handy_notes/static/js/runtime-main.4ee11169.js",
+    "runtime-main.js.map": "/handy_notes/static/js/runtime-main.4ee11169.js.map",
+    "static/js/2.61a98723.chunk.js": "/handy_notes/static/js/2.61a98723.chunk.js",
+    "static/js/2.61a98723.chunk.js.map": "/handy_notes/static/js/2.61a98723.chunk.js.map",
+    "static/js/3.14e5c998.chunk.js": "/handy_notes/static/js/3.14e5c998.chunk.js",
+    "static/js/3.14e5c998.chunk.js.map": "/handy_notes/static/js/3.14e5c998.chunk.js.map",
+    "index.html": "/handy_notes/index.html",
+    "static/css/main.4b05ab04.chunk.css.map": "/handy_notes/static/css/main.4b05ab04.chunk.css.map",
+    "static/js/2.61a98723.chunk.js.LICENSE.txt": "/handy_notes/static/js/2.61a98723.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/handy_notes/static/media/bg_img.9b2b7bbc.jpg",
+    "static/media/notesHandler.css": "/handy_notes/static/media/note_img.61cc5b4b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ee11169.js",
+    "static/js/2.61a98723.chunk.js",
+    "static/css/main.4b05ab04.chunk.css",
+    "static/js/main.9e8db483.chunk.js"
+  ]
+}
